@@ -12,7 +12,7 @@
         },
         data(){
             return{
-                data:"这是our首页"
+                data:"这是首页"
             }
         }
     }
